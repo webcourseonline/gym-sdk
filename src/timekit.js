@@ -29,8 +29,8 @@ function Timekit() {
    */
   var config = {
     app: 'demo',
-    apiBaseUrl: 'https://api.timekit.io/',
-    apiVersion: 'v2',
+    apiBaseUrl: '//api.fitness-addict.club/',
+    apiVersion: 'v1',
     convertResponseToCamelcase: false
   };
 
